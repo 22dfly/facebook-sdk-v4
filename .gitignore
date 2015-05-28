@@ -1,0 +1,4 @@
+/tmp/*
+/logs/*
+/config/constants.php
+composer.lock
